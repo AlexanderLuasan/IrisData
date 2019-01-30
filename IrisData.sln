@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IrisData", "IrisData\IrisData.pyproj", "{69C2A1F8-C180-4E3D-92D2-E54A0C1DFE5F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8259EC22-858A-41A8-8A62-45BDF3CB0799}"
+	ProjectSection(SolutionItems) = preProject
+		IrisData\iris.data.txt = IrisData\iris.data.txt
+		IrisData\iris.names.txt = IrisData\iris.names.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
